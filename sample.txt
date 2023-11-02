@@ -1,1 +1,11 @@
 this is the sample file
+way to add a new file from local storage to github
+add->git add filename.exe
+commit-> git commit -m "message"
+push-> git push origin baranch
+
+
+
+
+
+
