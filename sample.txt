@@ -3,6 +3,9 @@ way to add a new file from local storage to github
 add->git add filename.exe
 commit-> git commit -m "message"
 push-> git push origin baranch
+way to add a new file from github to local storage
+fetch-> git fetch origin branchname
+pull-> git pull
 
 
 
